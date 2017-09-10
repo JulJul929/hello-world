@@ -1,2 +1,4 @@
 # hello-world
-github repository
+
+this is a github repos.
+my name is Julie Gates!!!
